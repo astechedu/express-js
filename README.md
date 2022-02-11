@@ -1,7 +1,6 @@
 # Express Js Installation
 
-<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_21a537a2f60ea582bd213cab0722cb1a/express-js.png" width="300" height="200">
-<img src="https://miro.medium.com/max/600/1*AJTB4eViV7eQeOC9uUGABw.png" width="400" height="200">
+<img src="https://miro.medium.com/max/365/1*d2zLEjERsrs1Rzk_95QU9A.png" width="300" height="200">
 
 1. Manually 
 2. Express Application Generator
