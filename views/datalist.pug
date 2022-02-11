@@ -1,0 +1,16 @@
+block content
+  h1= title
+  p Welcome to #{title}
+    table.table.table-striped
+      tr
+        th Id
+        th Name
+        th Email             
+      tr
+      each n in data    
+        td #{n.id}
+        td #{n.name}
+        td #{n.email}
+
+
+ 
