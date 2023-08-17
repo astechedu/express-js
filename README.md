@@ -83,7 +83,7 @@ On MacOS or Linux, run the app with this command:
 On Windows Command Prompt, use this command:
 
 	set DEBUG=myapp:* & npm start
-
+--------
 On Windows PowerShell, use this command:
 
  	$env:DEBUG='myapp:*'; npm start
